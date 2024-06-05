@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rigelra15" alt="rigelra15" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://rigelra-portfolio-web.vercel.app/](https://rigelra-portfolio-web.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://rigelra.vercel.app/](https://rigelra.vercel.app/)
 
-- 📫 How to reach me **rigel8911bsnss@gmail.com**
+- 📫 How to reach me **rigel8911@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uhQuuXmE1vJYer9AwTNq-bDqOqq074Tg/view?usp=sharing](https://drive.google.com/file/d/1uhQuuXmE1vJYer9AwTNq-bDqOqq074Tg/view?usp=sharing)
+/*- 📄 Know about my experiences [https://drive.google.com/file/d/1uhQuuXmE1vJYer9AwTNq-bDqOqq074Tg/view?usp=sharing](https://drive.google.com/file/d/1uhQuuXmE1vJYer9AwTNq-bDqOqq074Tg/view?usp=sharing)*/
 
 - ⚡ Fun fact **I'm sometimes confused about what to do, sometimes I learn other programming languages that I haven't learned or design an application/website UI/etc.**
 
