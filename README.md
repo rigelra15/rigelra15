@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **rigel8911@gmail.com**
 
-/*- 📄 Know about my experiences [https://drive.google.com/file/d/1uhQuuXmE1vJYer9AwTNq-bDqOqq074Tg/view?usp=sharing](https://drive.google.com/file/d/1uhQuuXmE1vJYer9AwTNq-bDqOqq074Tg/view?usp=sharing)*/
+<!--- 📄 Know about my experiences [https://drive.google.com/file/d/1uhQuuXmE1vJYer9AwTNq-bDqOqq074Tg/view?usp=sharing](https://drive.google.com/file/d/1uhQuuXmE1vJYer9AwTNq-bDqOqq074Tg/view?usp=sharing)*/-->
 
 - ⚡ Fun fact **I'm sometimes confused about what to do, sometimes I learn other programming languages that I haven't learned or design an application/website UI/etc.**
 
