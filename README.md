@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rigelra15&show_icons=true&locale=en&layout=compact" alt="rigelra15" /></p>
 
-![snake gif](https://github.com/rigelra15/rigelra15/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/rigelra15/rigelra15/blob/output/github-snake.svg)
