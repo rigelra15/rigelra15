@@ -1,38 +1,141 @@
-<!-- ### Hi there 👋 -->
+<div align="center">
 
-<!--
-**rigelra15/rigelra15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Glassmorphism Header with Dark Theme -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,50:0f172a,100:020617&height=300&section=header&text=Rigel%20Ramadhani%20Waloni&fontSize=50&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20UI/UX%20Designer%20%7C%20Mobile%20Developer&descAlignY=55&descSize=18"/>
 
-Here are some ideas to get you started:
+<!-- Animated Typing SVG -->
+<img src="https://readme-typing-svg.herokuapp.com/?color=38bdf8&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer+from+Indonesia;UI/UX+Designer+and+Mobile+Developer;Always+learning+new+technologies;Building+amazing+digital+experiences" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
 
-<h1 align="center">Hi, I'm Rigel Ramadhani Waloni👋</h1>
-<h3 align="center">A passionate amateur frontend developer and UI/UX Designer from Indonesia</h3>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rigelra15&label=Profile%20views&color=0e75b6&style=flat" alt="rigelra15" /> </p>
+<!-- Stats Cards with Glassmorphism Effect -->
+<div align="center">
+  
+### 📊 GitHub Analytics
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rigelra15" alt="rigelra15" /></a> </p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rigelra15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=38bdf8&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&border_radius=15&hide_border=true"/>
 
-- 👨‍💻 All of my projects are available at [https://rigelra.vercel.app/](https://rigelra.vercel.app/)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rigelra15&layout=compact&langs_count=8&theme=tokyonight&bg_color=0d1117&border_color=38bdf8&title_color=38bdf8&text_color=94a3b8&border_radius=15&hide_border=true"/>
 
-- 📫 How to reach me **rigel8911@gmail.com**
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rigelra15&theme=tokyonight&background=0d1117&border=38bdf8&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakNum=94a3b8&sideNums=94a3b8&currStreakLabel=38bdf8&sideLabels=38bdf8&dates=64748b&border_radius=15&hide_border=true" alt="GitHub Streak" />
 
-<!--- 📄 Know about my experiences [https://drive.google.com/file/d/1uhQuuXmE1vJYer9AwTNq-bDqOqq074Tg/view?usp=sharing](https://drive.google.com/file/d/1uhQuuXmE1vJYer9AwTNq-bDqOqq074Tg/view?usp=sharing)*/-->
+</div>
 
-- ⚡ Fun fact **I'm sometimes confused about what to do, sometimes I learn other programming languages that I haven't learned or design an application/website UI/etc.**
+---
 
-![snake gif](https://github.com/rigelra15/rigelra15/blob/output/github-contribution-grid-snake-dark.svg)
+<!-- Tech Stack with Glassmorphism Cards -->
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> </p>
+### 🛠️ Technology Stack
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rigelra15&show_icons=true&locale=en&layout=compact" alt="rigelra15" /></p>
+#### Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" />
+
+#### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb,mysql,express&theme=dark" />
+
+#### Mobile Development
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark" />
+
+#### Design & Tools
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,git,github,vscode,vercel&theme=dark" />
+
+#### Programming Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,c&theme=dark" />
+
+</div>
+
+---
+
+<!-- Projects & Portfolio -->
+<div align="center">
+
+### 🎯 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🌐 Portfolio Website
+> **Modern React portfolio with glassmorphism design**
+- Built with React & TailwindCSS
+- Firebase integration
+- Fully responsive design
+- **[Live Demo](https://rigelra.vercel.app/)**
+
+</td>
+<td width="50%">
+
+#### 📱 Mobile UI/UX Projects
+> **Collection of mobile app designs**
+- E-commerce app interfaces
+- Social media designs
+- Dashboard concepts
+- **[View on Behance](https://www.behance.net/rigelramadhani)**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- Contact & Links Section -->
+<div align="center">
+
+### 🌐 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&color=0f172a)](https://rigelra.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rigelra/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rigel8911@gmail.com)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/rigelramadhani)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rigelra15/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@rigelra_)
+
+</div>
+
+---
+
+<!-- Profile Views & Activity -->
+<div align="center">
+
+### 📈 Profile Analytics
+
+<img src="https://komarev.com/ghpvc/?username=rigelra15&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views" />
+
+<!-- GitHub Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rigelra15&bg_color=0d1117&color=38bdf8&line=38bdf8&point=94a3b8&area=true&hide_border=true&radius=15" alt="GitHub Activity Graph" />
+
+<!-- Contribution Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rigelra15/rigelra15/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/rigelra15/rigelra15/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/rigelra15/rigelra15/blob/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+<!-- Achievements & Trophies -->
+<div align="center">
+
+### 🏆 GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=rigelra15&theme=dark_lover&no-frame=true&margin-w=4&column=4" />
+
+</div>
+
+---
+
+<!-- Footer with Glassmorphism Wave -->
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:1e293b&height=150&section=footer&animation=fadeIn"/>
+
+**💙 Thank you for visiting my profile! Let's connect and build something amazing together.**
+
+</div>
