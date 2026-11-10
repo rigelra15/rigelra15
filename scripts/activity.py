@@ -1,7 +1,7 @@
 """Builds the isometric Activity chart for the profile README from real GitHub contribution data.
 
 Usage: GH_TOKEN=... LOGIN=rigelra15 python3 scripts/activity.py dist
-Writes dist/activity-dark.svg and dist/activity-light.svg.
+Writes dist/activity-dark.svg, dist/activity-light.svg and dist/activity.json (read by web/index.html).
 """
 import json
 import os
@@ -113,4 +113,9 @@ if __name__ == "__main__":
     for name, theme in THEMES.items():
         with open(os.path.join(out, f"activity-{name}.svg"), "w") as f:
             f.write(render(total, weeks, theme))
+    days = [{"d": d["date"], "c": d["contributionCount"], "i": i,
+             "j": (datetime.date.fromisoformat(d["date"]).weekday() + 1) % 7}
+            for i, w in enumerate(weeks) for d in w["contributionDays"]]
+    with open(os.path.join(out, "activity.json"), "w") as f:
+        json.dump({"total": total, "generated": datetime.date.today().isoformat(), "days": days}, f, separators=(",", ":"))
     print("ok", len(weeks), "weeks,", total, "contributions")

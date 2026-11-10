@@ -8,6 +8,7 @@ on:
     branches: [main]
     paths:
       - scripts/activity.py
+      - web/index.html
       - .github/workflows/activity.yml
 
 permissions:
@@ -23,7 +24,9 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           LOGIN: ${{ github.repository_owner }}
-        run: python3 scripts/activity.py dist
+        run: |
+          python3 scripts/activity.py dist
+          cp web/index.html dist/index.html
 
       - name: Publish to the output branch
         env:
