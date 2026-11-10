@@ -1,5 +1,5 @@
 <a href="https://rigelra.my.id/">
-  <img src="assets/hero.svg" width="100%" alt="Rigel Ramadhani Waloni — Software Engineer and UI/UX Designer. I build web, mobile and macOS apps, and design them too.">
+  <img src="assets/hero.svg" width="100%" alt="Rigel Ramadhani Waloni: full-stack web developer and UI/UX designer. I build full-stack web apps, and design them too.">
 </a>
 
 <p align="center">
@@ -13,10 +13,10 @@
 
 <img src="assets/section-about.svg" width="100%" alt="About">
 
-I'm a Computer Engineering student (class of 2022) from Indonesia who works on both sides of the handoff: I design the interface in Figma, then build it.
+I'm a full-stack web developer and Computer Engineering graduate (ITS, 2026) from Sidoarjo, Indonesia. I work mostly with Next.js and React, and I design the interface in Figma before I build it.
 
-- **Building** software for the Bayucaraka UAV Research Team at ITS, mostly ground-control web apps in React and TypeScript.
-- **Shipping** side projects end to end, from a macOS menu bar app in Swift to REST APIs in Go and Laravel.
+- **Building** the Next.js and TypeScript web app of a ta'aruf (marriage matchmaking) platform at Qobiltu Indonesia, as the main contributor.
+- **Shipping** IoT dashboard widgets in Angular at PT XLSMART Telecom Sejahtera (internship, 2026) and Laravel ERP modules at PT Aldzama (internship, 2025).
 - **Designing** product UI/UX, with a first-place finish at the ITCC 2023 UI/UX Design Competition.
 
 <br>
@@ -24,12 +24,12 @@ I'm a Computer Engineering student (class of 2022) from Indonesia who works on b
 <img src="assets/section-work.svg" width="100%" alt="Selected work">
 
 <p align="center">
-  <a href="https://github.com/rigelra15/Lyrette"><img src="assets/project-lyrette.svg" width="49%" alt="Lyrette — synced lyrics in your Mac menu bar for Apple Music and Spotify, with CJK romanization and on-device translation. Swift, macOS."></a>
-  <a href="https://ruangkopisby.vercel.app"><img src="assets/project-ruangkopi.svg" width="49%" alt="RuangKopi Surabaya — interactive map to discover coffee shops and cafes around Surabaya. React, TypeScript, Leaflet."></a>
+  <a href="https://github.com/rigelra15/Lyrette"><img src="assets/project-lyrette.svg" width="49%" alt="Lyrette: synced lyrics in your Mac menu bar for Apple Music and Spotify, with CJK romanization and on-device translation. Swift, macOS."></a>
+  <a href="https://ruangkopisby.vercel.app"><img src="assets/project-ruangkopi.svg" width="49%" alt="RuangKopi Surabaya: interactive map to discover coffee shops and cafes around Surabaya. React, TypeScript, Leaflet."></a>
 </p>
 <p align="center">
-  <a href="https://github.com/rigelra15/RescueHub"><img src="assets/project-rescuehub.svg" width="49%" alt="RescueHub — REST API for disaster reporting, refugee and volunteer coordination, logistics distribution and safe evacuation routes. Go."></a>
-  <a href="https://github.com/rigelra15/CineCritic"><img src="assets/project-cinecritic.svg" width="49%" alt="CineCritic — movie catalogue and review platform with genres, authentication and per-movie reviews. Laravel, PHP."></a>
+  <a href="https://github.com/rigelra15/RescueHub"><img src="assets/project-rescuehub.svg" width="49%" alt="RescueHub: REST API for disaster reporting, refugee and volunteer coordination, logistics distribution and safe evacuation routes. Go."></a>
+  <a href="https://github.com/rigelra15/CineCritic"><img src="assets/project-cinecritic.svg" width="49%" alt="CineCritic: movie catalogue and review platform with genres, authentication and per-movie reviews. Laravel, PHP."></a>
 </p>
 
 <details>
@@ -40,7 +40,6 @@ I'm a Computer Engineering student (class of 2022) from Indonesia who works on b
 | :-- | :-- | :-- | :-- |
 | **Budgetly** | Personal budgeting app, on mobile and web | Flutter, React | [app](https://github.com/rigelra15/budgetly-app) · [web](https://budgetly-web.vercel.app) |
 | **HyperTopia Installer** | Installer app with signed Android release builds | Android | [releases](https://github.com/rigelra15/hypertopia-installer-android-releases) |
-| **Manjaro Web** | Official website of Computer Engineering 2022 | React | [live](https://manjaro-web.vercel.app) |
 | **Semaphore Pose Estimation** | Reading semaphore poses with computer vision | Python, OpenCV | [repo](https://github.com/rigelra15/semaphore_pose_estimation_opencv) |
 | **Matrix Pong** | Pong on an LED matrix for an embedded systems class | C++ | [repo](https://github.com/rigelra15/matrix_pong_embsys) |
 | **Bookly API** | Book management REST API | Go | [repo](https://github.com/rigelra15/bookly-api-golang) |
@@ -53,46 +52,60 @@ I'm a Computer Engineering student (class of 2022) from Indonesia who works on b
 
 <table>
   <tr>
-    <td><b>Web</b></td>
-    <td><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css" height="36" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, HTML, CSS"></td>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,tailwind,html,css" height="36" alt="JavaScript, TypeScript, React, Next.js, Angular, Tailwind CSS, HTML, CSS"></td>
   </tr>
   <tr>
-    <td><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=go,nodejs,express,laravel,firebase,mongodb,mysql" height="36" alt="Go, Node.js, Express, Laravel, Firebase, MongoDB, MySQL"></td>
+    <td><b>Backend + database</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,php,laravel" height="36" alt="Node.js, Express, PostgreSQL, PHP, Laravel"></td>
   </tr>
   <tr>
-    <td><b>Mobile + desktop</b></td>
-    <td><img src="https://skillicons.dev/icons?i=swift,flutter,dart,androidstudio" height="36" alt="Swift, Flutter, Dart, Android Studio"></td>
+    <td><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,githubactions,figma,flutter,dart" height="36" alt="Git, GitHub Actions, Figma, Flutter, Dart"></td>
   </tr>
   <tr>
-    <td><b>Design</b></td>
-    <td><img src="https://skillicons.dev/icons?i=figma,ps,ai" height="36" alt="Figma, Photoshop, Illustrator"></td>
-  </tr>
-  <tr>
-    <td><b>Also</b></td>
-    <td><img src="https://skillicons.dev/icons?i=python,cpp,c,opencv,git,vercel" height="36" alt="Python, C++, C, OpenCV, Git, Vercel"></td>
+    <td><b>Side projects</b></td>
+    <td><img src="https://skillicons.dev/icons?i=swift,go,python,cpp" height="36" alt="Swift, Go, Python, C++"></td>
   </tr>
 </table>
 
 <br>
 
-<img src="assets/section-journey.svg" width="100%" alt="Experience and awards">
+<img src="assets/section-journey.svg" width="100%" alt="Experience and education">
 
-| | Role | Where |
+| When | Role | Where |
 | :-- | :-- | :-- |
-| 2023 – now | **Software Engineer** | TD-GCS, Bayucaraka UAV Research Team ITS |
-| 2024 | **Expert Staff, UI/UX** | ITS EXPO |
-| 2024 | **Expert Staff, UI/UX** | MAGE X |
-| 2023 – 2024 | **Web Developer** | MAGE 9 |
-| 2023 | **UI/UX Designer** | Generasi Electics (GENICS), BEM FTEIC ITS |
+| Mar 2025 to present | **Web Developer** (freelance, project contract) | Qobiltu Indonesia, Surabaya |
+| Feb 2026 to Aug 2026 | **Full-stack Developer Intern** | PT XLSMART Telecom Sejahtera Tbk, Jakarta |
+| Apr 2025 to Dec 2025 | **Web Developer Intern** | PT Aldzama, Gresik |
+| Mar 2023 to Aug 2026 | **Software Engineer** | Bayucaraka UAV Research Team, Surabaya |
+| May 2024 to Oct 2024 | **Co-Founder and CTO** | aibeecara, Surabaya |
+| Feb 2025 to Jul 2025 | **Solo Full-stack Developer** | NewsInsight, an AI news fact-checking platform |
+
+Education: Bachelor of Computer Engineering, Institut Teknologi Sepuluh Nopember, Surabaya (Aug 2022 to Aug 2026).
 
 <details>
-<summary><b>Awards</b></summary>
+<summary><b>What I did in each role</b></summary>
 <br>
 
-- **1st Place**, UI/UX Design Competition, ITCC 2023
+- **Qobiltu Indonesia**: main contributor (540+ commits) to a Next.js and TypeScript app with checkout and premium gating, a CV builder and an academy; built a shared UI kit for desktop and mobile, server-side rendering and static generation, and NextAuth/OAuth login.
+- **PT XLSMART Telecom Sejahtera Tbk**: built a library of 15+ reusable IoT dashboard widgets in Angular, optimized map overlays, wrote room-booking API endpoints, and built Node-RED billing workflows for water and electricity.
+- **PT Aldzama**: worked on frontend and backend logic across five Laravel ERP modules for HR and payroll, including data import, export and reporting.
+- **Bayucaraka UAV Research Team**: built a web-based Ground Control Station with React, TypeScript and Tailwind CSS, with real-time telemetry displays; team finalist at KRTI 2024.
+- **aibeecara**: built an Android app in Flutter for AI-powered language conversation practice, and its React landing page.
+- **NewsInsight**: a Next.js frontend, an Express and PostgreSQL backend and a newsroom dashboard, with Gemini and Google Fact Check for automated fact-checking, plus OAuth, MFA and role-based access.
+
+</details>
+
+<details>
+<summary><b>Awards and training</b></summary>
+<br>
+
+- **1st Place**, UI/UX Design, ITCC 2023
+- **Finalist**, GemasTIK 2024 (UX)
+- **Top 10**, Intuitiva 2024 UI/UX Design
 - **Best Team Project**, UX Academy ISE 2023
-- **Top 10 Finalist**, Intuitiva UI/UX Competition 2023
+- **Training**: Next.js 15 and React, Dicoding
 
 </details>
 

@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440" role="img" aria-labelledby="t d">
 <title id="t">Rigel Ramadhani Waloni</title>
-<desc id="d">Software engineer and UI/UX designer. Builds web, mobile and macOS apps.</desc>
+<desc id="d">Full-stack web developer and UI/UX designer.</desc>
 <defs>
   <pattern id="dot" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#303030"/></pattern>
   <clipPath id="frame"><rect width="1200" height="440" rx="18"/></clipPath>
-  <clipPath id="type"><rect x="296" y="290" height="40" width="0">
+  <clipPath id="type"><rect x="334" y="290" height="40" width="0">
     <animate attributeName="width" dur="9s" repeatCount="indefinite" calcMode="linear"
-      keyTimes="0;0.06;0.42;0.9;0.96;1" values="0;0;614;614;0;0"/></rect></clipPath>
+      keyTimes="0;0.06;0.42;0.9;0.96;1" values="0;0;538;538;0;0"/></rect></clipPath>
   <radialGradient id="glowA" cx="18%" cy="10%" r="55%"><stop offset="0" stop-color="#0D99FF" stop-opacity=".20"/><stop offset="1" stop-color="#0D99FF" stop-opacity="0"/></radialGradient>
   <radialGradient id="glowB" cx="88%" cy="95%" r="50%"><stop offset="0" stop-color="#9747FF" stop-opacity=".22"/><stop offset="1" stop-color="#9747FF" stop-opacity="0"/></radialGradient>
 </defs>
@@ -29,7 +29,7 @@
   </g>
 
   <!-- role label -->
-  <text x="190" y="136" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#0D99FF">Software Engineer + UI/UX Designer</text>
+  <text x="190" y="136" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#0D99FF">Full-stack Developer + UI/UX Designer</text>
 
   <!-- name with selection box -->
   <text x="218" y="225" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="66" font-weight="800" fill="#FFFFFF" textLength="764" lengthAdjust="spacingAndGlyphs" letter-spacing="-1">Rigel Ramadhani Waloni</text>
@@ -42,16 +42,16 @@
 
   <!-- typed line -->
   <g clip-path="url(#type)">
-    <text x="296" y="318" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="18" fill="#B3B3B3" textLength="608" lengthAdjust="spacingAndGlyphs">I build web, mobile and macOS apps, and design them too.</text>
+    <text x="334" y="318" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="18" fill="#B3B3B3" textLength="532" lengthAdjust="spacingAndGlyphs">I build full-stack web apps, and design them too.</text>
   </g>
-  <rect y="298" width="2.5" height="26" fill="#0D99FF" x="296">
+  <rect y="298" width="2.5" height="26" fill="#0D99FF" x="334">
     <animate attributeName="x" dur="9s" repeatCount="indefinite" calcMode="linear"
-      keyTimes="0;0.06;0.42;0.9;0.96;1" values="296;296;910;910;296;296"/>
+      keyTimes="0;0.06;0.42;0.9;0.96;1" values="334;334;872;872;334;334"/>
     <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="0.9s" repeatCount="indefinite"/>
   </rect>
 
   <!-- facts -->
-  <g transform="translate(260 366)"><rect x="0" y="0" width="213" height="26" rx="13" fill="#2C2C2C" stroke="#383838"/><text x="107" y="17" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#B3B3B3">Computer Engineering '22</text><rect x="221" y="0" width="278" height="26" rx="13" fill="#2C2C2C" stroke="#383838"/><text x="360" y="17" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#B3B3B3">Bayucaraka UAV Research Team ITS</text><rect x="507" y="0" width="173" height="26" rx="13" fill="#2C2C2C" stroke="#383838"/><text x="594" y="17" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#B3B3B3">Surabaya, Indonesia</text></g>
+  <g transform="translate(308 366)"><rect x="0" y="0" width="254" height="26" rx="13" fill="#2C2C2C" stroke="#383838"/><text x="127" y="17" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#B3B3B3">Computer Engineering, ITS '26</text><rect x="262" y="0" width="141" height="26" rx="13" fill="#2C2C2C" stroke="#383838"/><text x="332" y="17" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#B3B3B3">Next.js + React</text><rect x="411" y="0" width="173" height="26" rx="13" fill="#2C2C2C" stroke="#383838"/><text x="497" y="17" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#B3B3B3">Sidoarjo, Indonesia</text></g>
 
   <!-- multiplayer cursors -->
   <g>
