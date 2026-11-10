@@ -114,12 +114,15 @@ Education: Bachelor of Computer Engineering, Institut Teknologi Sepuluh Nopember
 <img src="assets/section-activity.svg" width="100%" alt="Activity">
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rigelra15/rigelra15/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rigelra15/rigelra15/output/github-contribution-grid-snake.svg">
-    <img width="100%" alt="Snake animation eating my GitHub contribution graph" src="https://raw.githubusercontent.com/rigelra15/rigelra15/output/github-contribution-grid-snake.svg">
-  </picture>
+  <a href="https://rigelra15.github.io/rigelra15/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rigelra15/rigelra15/output/activity-dark.svg">
+      <img src="https://raw.githubusercontent.com/rigelra15/rigelra15/output/activity-light.svg" width="1200" alt="3D block chart of my GitHub contributions over the last year, one block per day. Opens the interactive version.">
+    </picture>
+  </a>
 </p>
+
+Want to spin it? [Open the interactive 3D version](https://rigelra15.github.io/rigelra15/): drag to rotate, hover a block to see its day.
 
 <br>
 
