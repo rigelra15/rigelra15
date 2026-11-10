@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" width="1200" height="300" alt="Rigel Ramadhani Waloni">
+  <img src="assets/hero-light.svg" width="1200" alt="Rigel Ramadhani Waloni">
 </picture>
 
 I'm Rigel, a software engineer and UI/UX designer in Indonesia (Computer Engineering, class of 2022). I usually design an interface in Figma and then build it myself, which is why the banner above looks like a canvas.
