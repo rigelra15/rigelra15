@@ -1,9 +1,9 @@
-<a href="https://rigelra.vercel.app/">
+<a href="https://rigelra.my.id/">
   <img src="assets/hero.svg" width="100%" alt="Rigel Ramadhani Waloni — Software Engineer and UI/UX Designer. I build web, mobile and macOS apps, and design them too.">
 </a>
 
 <p align="center">
-  <a href="https://rigelra.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D99FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://rigelra.my.id/"><img src="https://img.shields.io/badge/Portfolio-0D99FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/rigelra/"><img src="https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=0D99FF" alt="LinkedIn"></a>
   <a href="https://www.behance.net/rigelramadhani"><img src="https://img.shields.io/badge/Behance-1E1E1E?style=for-the-badge&logo=behance&logoColor=0D99FF" alt="Behance"></a>
   <a href="mailto:rigel8911@gmail.com"><img src="https://img.shields.io/badge/Email-1E1E1E?style=for-the-badge&logo=gmail&logoColor=0D99FF" alt="Email"></a>
