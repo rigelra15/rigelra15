@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 52" width="1200" height="52" role="img" aria-label="Activity">
+<rect x="1" y="12" width="40" height="28" rx="6" fill="#0D99FF"/>
+<text x="21" y="31.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" font-weight="700" fill="#FFFFFF">05</text>
+<text x="56" y="34" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="22" font-weight="700" fill="#0D99FF">Activity</text>
+<line x1="178" y1="26" x2="1188" y2="26" stroke="#8B949E" stroke-opacity=".45" stroke-width="1.5" stroke-dasharray="2 7" stroke-linecap="round"/>
+<rect x="1190" y="22" width="8" height="8" fill="none" stroke="#0D99FF" stroke-width="1.5"/>
+</svg>
